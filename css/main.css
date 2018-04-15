@@ -63,12 +63,12 @@ p {
 
 .image-wrap .regular {
   opacity: 1;
-  background: url(/img/feedback.jpg) no-repeat center center;
+  background: url(https://raw.githubusercontent.com/woodlik/myResume/master/img/feedback.jpg) no-repeat center center;
 }
 
 .image-wrap .blurred {
   opacity: 0;
-  background: url(/img/feedback.jpg) no-repeat center center;
+  background: url(https://raw.githubusercontent.com/woodlik/myResume/master/img/feedback.jpg) no-repeat center center;
 }
 
 /**
