@@ -63,12 +63,12 @@ p {
 
 .image-wrap .regular {
   opacity: 1;
-  background: url(/img/header-bg.jpg/) no-repeat center center;
+  background: url(/img/feedback.jpg/) no-repeat center center;
 }
 
 .image-wrap .blurred {
   opacity: 0;
-  background: url(/img/header-bg.jpg/) no-repeat center center;
+  background: url(/img/feedback.jpg/) no-repeat center center;
 }
 
 /**
@@ -265,6 +265,19 @@ h2, h3 {
 section {
   min-height: 300px;
 }
+/**
+* Skills
+*/
+
+.section-skills{
+  padding: 18px 0 0 0;
+  position: relative;
+  background: #41a0a3;
+}
+.section-skills p, h3{
+  color: white;
+}
+
 
 /**
  * About
