@@ -272,10 +272,11 @@ section {
 .section-skills{
   padding: 18px 0 0 0;
   position: relative;
-  background: #41a0a3;
+  background: -webkit-linear-gradient(left, rgba(212, 231, 247, 0.75) 0%, rgba(25, 210, 116, 0.75) 100%);
+  background: linear-gradient(to right, rgba(223, 228, 233, 0.75) 0%, rgba(237, 247, 242, 0.75) 100%);
 }
 .section-skills p, h3{
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 
@@ -283,7 +284,7 @@ section {
  * About
  */
 .section-intro {
-  padding: 50px 0 0 0;
+  padding: 50px 0 15px 0;
   position: relative;
 }
 
