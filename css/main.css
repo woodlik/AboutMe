@@ -146,6 +146,21 @@ h2, h3 {
   border-radius: 20%;
 }
 
+.color-instagram:hover{
+  color: violet;
+  border-radius: 20%;
+}
+
+.color-facebook:hover{
+  color: blue;
+  border-radius: 20%;
+}
+
+.color-telegram:hover{
+  color: rgb(10, 70, 201);
+  border-radius: 20%;
+}
+
 .color-black:hover {
   color: #2c2c2c;
 }
