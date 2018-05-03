@@ -121,6 +121,10 @@ a, a:hover{
   color: black;
 }
 
+.text-skills {
+  padding-top: 180px;
+  text-align: center;
+}
 /**
  * The color
  */
